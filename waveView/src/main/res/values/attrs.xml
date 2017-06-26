@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="text" format="string"></attr>
+    <attr name="waveColor" format="color"></attr>
+    <attr name="haveDials" format="boolean"></attr>
+    <attr name="unit" format="string"></attr>
+
+
+    <declare-styleable name="PercentBallView">
+        <attr name="text"/>
+        <attr name="waveColor"/>
+        <attr name="haveDials"/>
+        <attr name="unit"/>
+    </declare-styleable>
+
+</resources>

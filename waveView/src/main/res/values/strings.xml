@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="wave_text">点击优化</string>
+    <string name="unit">分</string>
+</resources>
